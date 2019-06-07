@@ -376,7 +376,7 @@ public class LinkedlistClass {
         }
         DoublyLinkedListNode current = head;
         /**
-         * Strategy for this, is to reverse the pointer of the DoublyLinkedListNode node (between prev & next nodes)
+         * Strategy for this, is to reverse the pointer of the DoublyLinkedListNode current node (between prev & next nodes)
          *
          */
         while(current != null){

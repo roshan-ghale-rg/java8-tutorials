@@ -105,7 +105,7 @@ public class LinkedlistClass {
     }
 
     /**
-     * This  method reverses the linked list program.
+     * This  method reverses the single linked list program.
      * @param head
      */
     static void reversePrint(SinglyLinkedListNode head) {
